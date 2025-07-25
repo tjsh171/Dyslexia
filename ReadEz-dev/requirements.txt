@@ -2,7 +2,7 @@ Django==4.2.10
 fitz==0.0.1.dev2
 librosa==0.10.1
 matplotlib==3.7.3
-Pillow==9.5.0
+Pillow==11.3.0
 pydub==0.25.1
 pytesseract==0.3.10
 torch==2.0.1
